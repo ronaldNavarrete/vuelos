@@ -4,5 +4,11 @@
 
 <p><b>Ronald Navarrete</b></p>
 
+<p><b>Instalación</b></p>
+<p><code>git clone https://github.com/ronaldNavarrete/vuelos.git</code></p>
+<p><code>cd vuelos</code></p>
+<p><code>npm install</code></p>
+<p><code>npm start</code></p>
+
 <p>Enlace al código del cliente: https://www.mediafire.com/file/5wo0m3wp0w7jtfn/htdocs.rar/file</p>
 <p><i>(Descomprimir y abrir el index.html)</i></p>
