@@ -10,5 +10,6 @@
 <p><code>npm install</code></p>
 <p><code>npm start</code></p>
 
+<p><b>Instalación del cliente</b></p>
 <p>Enlace al código del cliente: https://www.mediafire.com/file/mj1llu5i7ij14yx/htdocs.rar/file</p>
 <p><i>(Descomprimir y abrir el index.html)</i></p>
