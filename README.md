@@ -4,4 +4,5 @@
 
 <p><b>Ronald Navarrete</b></p>
 
-Link del código en Mediafire hasta mientras: https://www.mediafire.com/file/eljzsdt1j7z175a/App+vuelos.rar/file
+<p>Enlace al código del cliente: https://www.mediafire.com/file/5wo0m3wp0w7jtfn/htdocs.rar/file</p>
+<p><i>(Descomprimir y abrir el index.html)</i></p>
